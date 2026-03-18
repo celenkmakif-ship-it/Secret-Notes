@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# Sanal ortam
+venv/
+env/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
